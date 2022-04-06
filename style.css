@@ -35,13 +35,13 @@ body {
 }
 
 .btn-primary {
-    color: #fff;
-    background: #117964;
+    color: #ffffff;
+    background: #17968f;
     transition: background 0.2s ease-in;
 }
 
 .btn-primary:hover{
-    background: #0f6453;
+    background: #15857f;
 }
 
 /* ########################### Navbar Styling ############################### */
@@ -91,7 +91,7 @@ body {
 }
 
 .navbar a:hover {
-    color: #117964;
+    color: #17968f;
 }
 
 /* ############################## Hero section Styling ############################# */
