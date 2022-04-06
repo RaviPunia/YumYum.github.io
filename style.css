@@ -36,12 +36,12 @@ body {
 
 .btn-primary {
     color: #fff;
-    background: #118669;
+    background: #117964;
     transition: background 0.2s ease-in;
 }
 
 .btn-primary:hover{
-    background: #0f755c;
+    background: #0f6453;
 }
 
 /* ########################### Navbar Styling ############################### */
